@@ -1,9 +1,7 @@
-### 介紹
 - 預覽: [Website-template-5](https://pardnchiu.github.io/website-template-5/)
 - 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
-### 引用
-- [Font Awesome 5.1](https://fontawesome.com)
+- 引用: [Font Awesome 5.1](https://fontawesome.com)
 ### 預覽
 | index |
 |---|
