@@ -1,6 +1,5 @@
 - Preview: [Website-template-5](https://pardnchiu.github.io/website-template-5/)
 - Developer: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
-- License: [MIT License](./LICENSE)
 - Icons: [Font Awesome 5.1](https://fontawesome.com)
 
 <br>
