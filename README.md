@@ -10,4 +10,4 @@
 
 <br>
 
-Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://facebook.com/pardnltd)
+Copyright (c) 2022 [Pardn Ltd](mailto:mail@pardn.ltd)
