@@ -3,7 +3,7 @@
 ### 介紹
 
 - 預覽: [Websitemplate 5](https://pardnchiu.github.io/websitemplate-005/)
-- 開發: [Pardn Chiu](https://facebook.com/chiuchingwei) / [信箱](mailto:chiuchingwei@icloud.com)
+- 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
 
 ### 引用
