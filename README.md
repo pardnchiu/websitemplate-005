@@ -1,4 +1,4 @@
-- Preview: [Website-template-5](https://pardnchiu.github.io/website-template-5/)
+- Preview: [Website Template 5](https://pardnchiu.github.io/website-template-5/)
 - Developer: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
 - Icons: [Font Awesome 5.1](https://fontawesome.com)
 
